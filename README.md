@@ -4,5 +4,5 @@
 
 Demo bear classifier with fastai and Voila
 Changes
-- Modying requirement to satisfied heroku environment requirement
+- Modying requirement to satisfy heroku environment requirement
 - Adding Procfile for voila/heroku
